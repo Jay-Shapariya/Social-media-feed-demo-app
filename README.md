@@ -1,16 +1,31 @@
-# social_media_feed_task
+# Social Media Feed App
 
-A new Flutter project.
+Welcome to the Social Media Feed App! This app allows users to browse and interact with a social media feed, view posts, like, save, and comment on them.
+
+## Features
+
+- Browse through a dynamic social media feed.
+- Like and save posts to your profile.
+- Comment on posts and engage with other users.
+
+### Login Credentials (for testing purposes)
+
+To access the app, you can use the following login credentials:
+
+- Email: test123@gmail.com
+- Password: 123456
+
+Please note that these credentials are for testing purposes only and should not be used for any sensitive information.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow these steps to get the app up and running on your local machine:
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Ensure that you have Flutter and Dart installed on your machine.
+- Clone the repository to your local environment.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/Jay-Shapariya/Social-media-feed-demo-app.git
+cd social-media-feed-app
